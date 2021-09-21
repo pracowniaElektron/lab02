@@ -1,4 +1,4 @@
-// nic
+// copy right by
 
 #include <iostream>
 
